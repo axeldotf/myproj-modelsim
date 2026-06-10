@@ -1,0 +1,40 @@
+# Reading pref.tcl
+# OpenFile {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/lab9.mpf}
+# Loading project lab9
+vsim -gui work.testbench_v3
+# vsim -gui work.testbench_v3 
+# Start time: 10:31:08 on Dec 16,2024
+# Loading sv_std.std
+# Loading work.testbench_v3
+# Loading work.APB_BUS_SERMUL_PWM
+# Loading work.APB_BUS_MASTER
+# Loading work.APB_BUS_SERMUL
+# Loading work.APB_BUS_PWM
+add wave -position insertpoint sim:/testbench_v3/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# PRDATA:         20	Mult result:         20
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 10:46:39 on Dec 16,2024, Elapsed time: 0:15:31
+# Errors: 0, Warnings: 1

@@ -1,0 +1,39 @@
+{G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/APB_BUS.sv} {1 {vlog -work work -sv -stats=none {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/APB_BUS.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module APB_BUS_SERMUL_PWM
+
+Top level modules:
+	APB_BUS_SERMUL_PWM
+
+} {} {}} {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/APB_BUS_SLAVE.sv} {1 {vlog -work work -sv -stats=none {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/APB_BUS_SLAVE.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module APB_BUS_SERMUL
+-- Compiling module APB_BUS_PWM
+
+Top level modules:
+	APB_BUS_SERMUL
+	APB_BUS_PWM
+
+} {} {}} {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/tb_v3.sv} {1 {vlog -work work -sv -stats=none {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/tb_v3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_v3
+
+Top level modules:
+	testbench_v3
+
+} {} {}} {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/tb.sv} {1 {vlog -work work -sv -stats=none {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/APB_BUS_MASTER.sv} {2 {vlog -work work -sv -stats=none {G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/APB_BUS_MASTER.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module APB_BUS_MASTER
+** Warning: G:/Il mio Drive/UniBO/Digital LAB/LAB Digital Projects/09/APB_BUS_MASTER.sv(36): (vlog-13314) Defaulting port 'S_PRDATA' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+
+Top level modules:
+	APB_BUS_MASTER
+
+} {} {}}
